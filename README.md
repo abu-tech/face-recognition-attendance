@@ -24,11 +24,13 @@ which records the attendance of the person in CSV file if it is recognised by th
 3.Clone the repository.  
 4.Install the dependencies using requirements.txt after cloning the repository.
 
-Open the cloned repository with the terminal then run the below command for step4
+Open the cloned repository with the terminal then run the below command for step4.
 
 ```bash
 pip install -r requirements.txt
 ```
+
+After doing all the steps above run attendance.py in any IDE or terminal....
 
 ## Tech Stack and libraries Used
 
