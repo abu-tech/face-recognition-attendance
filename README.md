@@ -1,6 +1,6 @@
 # Face Recognition Attendance GUI Application
 
-This is Basically a face Recognition based attendance GUI application
+This is Basically a face Recognition based attendance Desktop application
 which records the attendance of the person in CSV file if it is recognised by the application.
 
 ## Demo
